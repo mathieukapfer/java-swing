@@ -5,7 +5,8 @@ Some samples to play with java swing
 ## installation (Linux)
 
   - Linux package
-     sudo apt-get install default-jdk
+  
+        sudo apt-get install default-jdk
 
   - Linux ide 
      - IntelliJ Idea: https://www.jetbrains.com/idea/download/index.html#section=linux
