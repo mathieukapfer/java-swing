@@ -2,7 +2,7 @@
 
 Some samples to play with java swing
 
-## Linux installation
+## installation (Linux)
 
   - Linux package
      sudo apt-get install default-jdk
